@@ -3,10 +3,7 @@ CodeX Executor, Roblox oyuncularına güç vermek için tasarlanmış güçlü b
 CodeX Executor’ı indirmek için resmi web sitesini ziyaret etmek oldukça basittir. Güvenliğiniz için üçüncü taraf kaynaklardan kaçının. İşte CodeX Executor’ı indirmek için adım adım bir rehber:
 
 Codex Executor kurun ve dosyayı açın
-Cmd açın
-cd CodeX Executor
-ardından pip install -r reqruiments.txt yazın
-ondan sonra tek yapmanız gereken codex executor.py çalıştırmak
+Gerekli pip modülleri uygulama çalıştığı anda kurulur eğer kurlmaz ise aşağıdaki yöntemi deneyiniz
 iyi eğlenceler 
 
 Eğer Windows Defender engelliyor ise yada açılmıyor uyarı alıyor iseniz
