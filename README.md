@@ -9,5 +9,9 @@ ardından pip install -r reqruiments.txt yazın
 ondan sonra tek yapmanız gereken codex executor.py çalıştırmak
 iyi eğlenceler 
 
+Eğer Windows Defender engelliyor ise yada açılmıyor uyarı alıyor iseniz
+defender veya aktif olan anti vürs programınızı kapatıp tekrar deneyiniz
+
+Kod Py installer ile Exe haline Dönüştürüldüğü için Windows defender ve antivirüs programları tehdit olarak algılar
 
 By. Cream
